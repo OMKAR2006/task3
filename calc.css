@@ -1,0 +1,39 @@
+body{
+    background-color: orange;
+    
+}
+.maincontainer{ 
+    margin:auto;
+}
+ h1{
+font-family: serif;
+
+ }
+
+#answer{width:300px;
+        border-radius:10px;
+        padding-left:10px;}
+ 
+input{
+    
+    width:78px;
+    height:77px;
+    font-size:41px;
+
+      margin:5px;    
+background:rgb(208, 219, 54);
+border-radius:7px;
+      
+      }
+ 
+.calc{background:rgb(3, 3, 3);
+     padding:15px;
+     border-radius:26px; 
+     display:inline-block ;
+     }
+      
+     #col{width:350px;
+        border-radius:10px;
+        padding-left:10px;
+        background-color: aliceblue;
+     }
